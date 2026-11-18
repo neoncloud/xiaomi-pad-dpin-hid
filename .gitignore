@@ -1,0 +1,9 @@
+/dist/
+/stock/
+/.venv/
+__pycache__/
+*.py[cod]
+*.aar
+*.apk
+*.so
+*.zip

@@ -1,0 +1,6 @@
+id=codex_usb_ptp_touchpad_native
+name=Xiaomi Pad DP-in Input
+version=3.1.6-native-pen-controls
+versionCode=34
+author=Codex
+description=Windows Precision Touchpad, touchscreen and Focus Pen Pro input for Xiaomi Pad DP-in.

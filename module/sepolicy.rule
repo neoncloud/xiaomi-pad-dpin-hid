@@ -1,0 +1,2 @@
+allow hal_usb_dp_relay_default vendor_file file execute_no_trans;
+allow hal_usb_dp_relay_default hal_usb_dp_relay_default process execmem;
