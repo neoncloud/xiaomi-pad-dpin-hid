@@ -22,7 +22,7 @@
 ## 开始使用
 
 1. **看型号和连接。** 已验证的是小米平板 9 Pro Max（M367FC／`yingtian`）、HyperOS `OS4.0.16.0.XBMCNXM` 上的指定原厂 USB 服务，以及 Windows 11。USB-C 连接需要同时提供 DP 视频和 USB 数据。
-2. **下载模块 ZIP。** 平板需已具备可用的 KernelSU root 和系统挂载支持。在 [GitHub Release](https://github.com/neoncloud/xiaomi-pad-dpin-hid/releases/latest) 下载模块的 \`codex_usb_ptp_touchpad_native-*.zip\`。也可以使用自己平板上的原厂文件，[从源码构建](docs/BUILD.md)。
+2. **下载模块 ZIP。** 平板需已具备可用的 KernelSU root 和系统挂载支持。在 [GitHub Release](https://github.com/neoncloud/xiaomi-pad-dpin-hid/releases/latest) 下载模块的 `codex_usb_ptp_touchpad_native-*.zip`。也可以使用自己平板上的原厂文件，[从源码构建](docs/BUILD.md)。
 3. **安装并试用。** 在 KernelSU 里安装生成的 ZIP，按 [安装和恢复说明](docs/INSTALL.md) 让模块生效，再走平板原有的 DP-in 入口。Windows 识别设备后即可使用。
 
 安装和构建时会用到电脑。日常使用由平板本地自动处理。使用临时 root 时，整机重启后先恢复 root 并确认模块启用。
